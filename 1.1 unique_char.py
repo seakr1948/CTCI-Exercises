@@ -11,9 +11,13 @@ def unique_string(string):
 
 test_1 = "abc"
 test_2 = "test"
+test_3 = "aaa"
+test_4 = "abcdefghijklmnopqrstuvwxyz"
 
 unique_string(test_1)
 unique_string(test_2)
+unique_string(test_3)
+unique_string(test_4)
 
 
 
